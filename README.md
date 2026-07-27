@@ -40,22 +40,25 @@ REST APIs • Backend Development • Software Engineering • AI Tools for Deve
 
 | 🇺🇸 English | 🇧🇷 Português |
 |-------------|--------------|
-| Backend Python Developer focused on building REST APIs, web applications and backend solutions using Python, Django and Django REST Framework. Experience with relational databases, Docker, Git and software engineering practices. | Desenvolvedor Backend Python focado no desenvolvimento de APIs REST, aplicações web e soluções backend utilizando Python, Django e Django REST Framework. Experiência com bancos relacionais, Docker, Git e práticas de engenharia de software.|
+| Backend Python Developer focused on building REST APIs, web applications and backend solutions using Python, Django and Django REST Framework. Experience with relational databases, Docker, Git and software engineering practices. | Desenvolvedor Backend Python focado no desenvolvimento de APIs REST, aplicações web e soluções backend utilizando Python, Django e Django REST Framework. Experiência com bancos de dados relacionais, Docker, Git e práticas de engenharia de software. |
 
 ---
 
 # Featured Project | Projeto em Destaque
 
-🚀 **FleetPilot**
+## 🚀 FleetPilot — Fleet Management System
 
-Fleet management platform developed with Python, Django and Django REST Framework.
+Personal backend project focused on fleet management solutions using Python, Django and Django REST Framework.
 
-Features:
+### Features:
+
 - REST API architecture
-- Vehicle tracking management
-- Database modeling
-- Authentication and permissions
-- Backend development
+- Vehicle and driver management
+- User authentication and permissions
+- PostgreSQL database modeling
+- Backend business rules
+- API development
+- Integration concepts with vehicle tracking systems
 
 ---
 
@@ -71,7 +74,7 @@ Features:
 
 # Skills | Competências
 
-### Backend
+## Backend
 
 - Python
 - Django
@@ -81,21 +84,41 @@ Features:
 - JWT
 - PostgreSQL
 - MySQL
+- ORM
+- Database Modeling
 
-### DevOps
+
+## DevOps & Tools
 
 - Docker
 - Linux
 - Git
 - GitHub
+- Virtual Environments
+- Deployment Basics
 
-### Software Engineering
+
+## Software Engineering
 
 - Clean Code
-- SOLID
+- SOLID Principles
 - Design Patterns
 - Software Architecture
+- Object-Oriented Programming
 - AI-assisted Development
+
+---
+
+# Learning & Development | Estudos Atuais
+
+Currently improving my knowledge in:
+
+- Advanced Django development
+- Backend architecture
+- API security
+- Automated testing
+- Cloud deployment
+
 
 ---
 
