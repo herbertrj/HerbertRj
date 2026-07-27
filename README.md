@@ -9,15 +9,15 @@ Python • Django • Django REST Framework • PostgreSQL • Docker • Git & 
 </p>
 
 <p>
-REST APIs • Software Engineering • AI-assisted Development
+REST APIs • Backend Development • Software Engineering • AI Tools for Developer Productivity
 </p>
 
 <p>
-🇺🇸 Backend developer focused on designing scalable applications, REST APIs and software solutions using Python and modern engineering practices.
+🇺🇸 Backend developer focused on building REST APIs, backend applications and software solutions using Python, Django and modern engineering practices.
 </p>
 
 <p>
-🇧🇷 Desenvolvedor backend focado no desenvolvimento de aplicações escaláveis, APIs REST e soluções de software utilizando Python e boas práticas de engenharia de software.
+🇧🇷 Desenvolvedor backend focado na construção de APIs REST, aplicações backend e soluções de software utilizando Python, Django e boas práticas de engenharia.
 </p>
 
 <p>
@@ -26,7 +26,7 @@ REST APIs • Software Engineering • AI-assisted Development
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL@email.com">
+<a href="mailto:herbertrj87@icloud.com">
 <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -40,7 +40,22 @@ REST APIs • Software Engineering • AI-assisted Development
 
 | 🇺🇸 English | 🇧🇷 Português |
 |-------------|--------------|
-| Backend Python Developer with building REST APIs, web applications and scalable backend solutions using Python, Django and Django REST Framework. Skilled in relational databases, Docker, Git and software engineering best practices. | Desenvolvedor Backend Python no desenvolvimento de APIs REST, aplicações web e soluções backend escaláveis utilizando Python, Django, Django REST Framework, Docker, Git e boas práticas de engenharia de software.|
+| Backend Python Developer focused on building REST APIs, web applications and backend solutions using Python, Django and Django REST Framework. Experience with relational databases, Docker, Git and software engineering practices. | Desenvolvedor Backend Python focado no desenvolvimento de APIs REST, aplicações web e soluções backend utilizando Python, Django e Django REST Framework. Experiência com bancos relacionais, Docker, Git e práticas de engenharia de software.|
+
+---
+
+# Featured Project | Projeto em Destaque
+
+🚀 **FleetPilot**
+
+Fleet management platform developed with Python, Django and Django REST Framework.
+
+Features:
+- REST API architecture
+- Vehicle tracking management
+- Database modeling
+- Authentication and permissions
+- Backend development
 
 ---
 
@@ -56,30 +71,16 @@ REST APIs • Software Engineering • AI-assisted Development
 
 # Skills | Competências
 
-<table>
-
-<tr>
-
-<td width="50%">
-
 ### Backend
 
 - Python
 - Django
 - Django REST Framework
-- APIs REST
-- Autenticação
+- REST APIs
+- Authentication
 - JWT
 - PostgreSQL
 - MySQL
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
 
 ### DevOps
 
@@ -88,39 +89,13 @@ REST APIs • Software Engineering • AI-assisted Development
 - Git
 - GitHub
 
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 🇺🇸 Software Engineering
+### Software Engineering
 
 - Clean Code
 - SOLID
+- Design Patterns
 - Software Architecture
-- Design Patterns
 - AI-assisted Development
-
-</td>
-
-<td>
-
-### 🇧🇷 Engenharia de Software
-
-- Código Limpo
-- SOLID
-- Arquitetura de Software
-- Design Patterns
-- Desenvolvimento Assistido por IA
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
