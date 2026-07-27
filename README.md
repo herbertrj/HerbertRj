@@ -46,7 +46,7 @@ REST APIs • Backend Development • Software Engineering • AI Tools for Deve
 
 # Featured Project | Projeto em Destaque
 
-## 🚀 FleetPilot — Fleet Management System
+##  FleetPilot — Fleet Management System
 
 Personal backend project focused on fleet management solutions using Python, Django and Django REST Framework.
 
